@@ -11,9 +11,10 @@
 }
 body{
     font-family: trap;
+    padding: 10;
 }
-content-left{
-    padding: 50%;
+.content-left{
+    justify-content: center;
 }
 
 header{
